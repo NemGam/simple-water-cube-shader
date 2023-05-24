@@ -12,7 +12,7 @@ Customize amount of vertex displacement done
 ### - Change color and transparency of the water cube
 Your water can become a juice!
 
-##Future features:
-*Static conditional branching
-*Support for different meshes
-*Support for gradients
+## Future features:
+* Static conditional branching
+* Support for different meshes
+* Support for gradients
