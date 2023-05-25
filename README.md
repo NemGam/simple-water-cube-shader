@@ -6,6 +6,8 @@ You can download **WaterCube.fbx** to use with that shader from the repository.
 ### - Stencil buffer support
 Render your water cube only inside/outside some object
 
+![](Previews/stencil-preview.gif)
+
 ### - Change speed and amplitude 
 Customize amount of vertex displacement done
 
