@@ -11,8 +11,12 @@ Render your water cube only inside/outside some object
 ### - Change speed and amplitude 
 Customize amount of vertex displacement done
 
+![](Previews/speed-preview.gif)
+
 ### - Change color and transparency of the water cube
 Your water can become a juice!
+
+![](Previews/color-preview.gif)
 
 ## Future features:
 * Static conditional branching
